@@ -47,5 +47,3 @@ https://www.linkedin.com/posts/your-post-link
 ```
 
 ---
-
-✅ **Note:** Ensure all required files are uploaded before the submission deadline.
