@@ -1,23 +1,51 @@
-# Assignment Submissions
+# 📂 Assignment Submissions
 
-# 1 Research Paper Presentation
-> Pls upload the PDF in Google form link
+Please submit the following items using the provided links.
 
-# 2 Case Study Documentation
->Notion Page: [Notion Link](https://www.notion.so/Case-Study-DEKA-ARM-LUKE-Arm-EMG-Based-Multi-DOF-Prosthetic-61875e03829c43a79ea08a31ecca8e07?source=copy_link)
+---
 
-# 3 Poster Presentation
-> Pls upload the Poster in Google form link
+## 1️⃣ Research Paper Presentation
+- Upload the **PDF file** using the **Google Form link**.
 
-# 4 Project Report
-> Pls upload the Project Report PDF in Google form link
+---
 
-# 5 Project Report in Claude Artifact
-> [Claude Artifact](https://claude.ai/public/artifacts/deb31923-6d57-442f-97e3-daf398e10085)
+## 2️⃣ Case Study Documentation
+- View the documentation on Notion  
 
-# 6 Project Explanation Video
-> Pls upload the Video in Google form link
+🔗 **Notion Page:**  
+https://www.notion.so/Case-Study-DEKA-ARM-LUKE-Arm-EMG-Based-Multi-DOF-Prosthetic-61875e03829c43a79ea08a31ecca8e07?source=copy_link
 
-# 7 Linkedin Post
-> Submit the LinkedIn post URL
-> [LinkedIn post URL]
+---
+
+## 3️⃣ Poster Presentation
+- Upload the **Poster file** using the **Google Form link**.
+
+---
+
+## 4️⃣ Project Report
+- Upload the **Project Report (PDF)** using the **Google Form link**.
+
+---
+
+## 5️⃣ Project Report in Claude Artifact
+🔗 **Claude Artifact:**  
+https://claude.ai/public/artifacts/55b28639-dcf4-443f-ab4d-39dd65c5e618
+
+---
+
+## 6️⃣ Project Explanation Video
+- Upload the **Video file** using the **Google Form link**.
+
+---
+
+## 7️⃣ LinkedIn Post
+- Submit the **LinkedIn Post URL**
+
+Example format:
+```
+https://www.linkedin.com/posts/your-post-link
+```
+
+---
+
+✅ **Note:** Ensure all required files are uploaded before the submission deadline.
